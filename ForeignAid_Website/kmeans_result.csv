@@ -1,0 +1,203 @@
+Country Code,Country Name,current year(2020),avg 5years
+AFE,Africa Eastern and Southern,step2,step2
+AFG,Afghanistan,step1,step1
+AFW,Africa Western and Central,step1,step1
+AGO,Angola,step2,step2
+ALB,Albania,step1,step1
+ARB,Arab World,step4,step3
+ARE,United Arab Emirates,step4,step4
+ARG,Argentina,step4,step4
+ARM,Armenia,step2,step2
+ATG,Antigua and Barbuda,step4,step4
+AUS,Australia,step4,step4
+AUT,Austria,step4,step4
+AZE,Azerbaijan,step2,step2
+BEL,Belgium,step4,step4
+BEN,Benin,step1,step1
+BFA,Burkina Faso,step1,step1
+BGD,Bangladesh,step2,step2
+BHR,Bahrain,step4,step4
+BHS,"Bahamas, The",step4,step4
+BIH,Bosnia and Herzegovina,step4,step4
+BLR,Belarus,step3,step3
+BLZ,Belize,step4,step4
+BOL,Bolivia,step2,step2
+BRA,Brazil,step4,step4
+BRN,Brunei Darussalam,step3,step3
+BTN,Bhutan,step1,step2
+BWA,Botswana,step4,step4
+CAF,Central African Republic,step1,step1
+CEB,Central Europe and the Baltics,step4,step4
+CHE,Switzerland,step4,step4
+CHL,Chile,step4,step4
+CHN,China,step4,step3
+CIV,Cote d'Ivoire,step1,step1
+CMR,Cameroon,step1,step1
+COD,"Congo, Dem. Rep.",step1,step2
+COL,Colombia,step4,step4
+CPV,Cabo Verde,step4,step4
+CRI,Costa Rica,step4,step4
+CUB,Cuba,step4,step4
+CUW,Curacao,step4,step4
+CYP,Cyprus,step4,step4
+CZE,Czech Republic,step4,step4
+DEU,Germany,step4,step4
+DMA,Dominica,step1,step1
+DNK,Denmark,step4,step4
+DOM,Dominican Republic,step4,step4
+DZA,Algeria,step2,step2
+EAP,East Asia & Pacific (excluding high income),step3,step3
+EAR,Early-demographic dividend,step4,step4
+EAS,East Asia & Pacific,step4,step4
+ECA,Europe & Central Asia (excluding high income),step4,step4
+ECS,Europe & Central Asia,step4,step4
+ECU,Ecuador,step3,step3
+EGY,"Egypt, Arab Rep.",step2,step2
+EMU,Euro area,step4,step4
+ESP,Spain,step4,step4
+EST,Estonia,step4,step4
+ETH,Ethiopia,step1,step1
+EUU,European Union,step4,step4
+FIN,Finland,step4,step4
+FJI,Fiji,step2,step2
+FRA,France,step4,step4
+FSM,"Micronesia, Fed. Sts.",step1,step1
+GAB,Gabon,step3,step3
+GBR,United Kingdom,step4,step4
+GEO,Georgia,step4,step4
+GHA,Ghana,step1,step1
+GIN,Guinea,step1,step1
+GMB,"Gambia, The",step1,step1
+GNQ,Equatorial Guinea,step3,step3
+GRC,Greece,step4,step4
+GRD,Grenada,step4,step4
+GTM,Guatemala,step4,step4
+GUY,Guyana,step1,step1
+HKG,"Hong Kong SAR, China",step4,step4
+HND,Honduras,step4,step4
+HPC,Heavily indebted poor countries (HIPC),step1,step1
+HRV,Croatia,step4,step4
+HTI,Haiti,step1,step1
+HUN,Hungary,step4,step4
+IBD,IBRD only,step4,step4
+IBT,IDA & IBRD total,step4,step4
+IDA,IDA total,step1,step1
+IDB,IDA blend,step1,step1
+IDN,Indonesia,step2,step2
+IDX,IDA only,step1,step1
+IND,India,step1,step1
+IRL,Ireland,step4,step4
+IRN,"Iran, Islamic Rep.",step3,step3
+IRQ,Iraq,step3,step3
+ISL,Iceland,step4,step4
+ISR,Israel,step4,step4
+ITA,Italy,step4,step4
+JAM,Jamaica,step4,step4
+JOR,Jordan,step4,step4
+KAZ,Kazakhstan,step4,step4
+KEN,Kenya,step1,step1
+KGZ,Kyrgyz Republic,step2,step2
+KHM,Cambodia,step1,step1
+KNA,St. Kitts and Nevis,step4,step4
+KOR,"Korea, Rep.",step4,step4
+KWT,Kuwait,step4,step4
+LAC,Latin America & Caribbean (excluding high income),step4,step4
+LAO,Lao PDR,step1,step1
+LBN,Lebanon,step4,step4
+LCA,St. Lucia,step4,step4
+LCN,Latin America & Caribbean,step4,step4
+LDC,Least developed countries: UN classification,step1,step1
+LIC,Low income,step1,step1
+LKA,Sri Lanka,step4,step4
+LMC,Lower middle income,step2,step2
+LMY,Low & middle income,step4,step3
+LSO,Lesotho,step4,step4
+LTE,Late-demographic dividend,step4,step4
+LTU,Lithuania,step4,step4
+LUX,Luxembourg,step4,step4
+LVA,Latvia,step4,step4
+MAR,Morocco,step2,step2
+MDA,Moldova,step2,step2
+MDG,Madagascar,step1,step1
+MDV,Maldives,step4,step4
+MEA,Middle East & North Africa,step4,step4
+MEX,Mexico,step4,step4
+MHL,Marshall Islands,step1,step4
+MIC,Middle income,step4,step4
+MKD,North Macedonia,step4,step4
+MLI,Mali,step1,step1
+MLT,Malta,step4,step4
+MNA,Middle East & North Africa (excluding high income),step2,step2
+MNE,Montenegro,step4,step4
+MNG,Mongolia,step2,step2
+MOZ,Mozambique,step1,step1
+MRT,Mauritania,step1,step1
+MUS,Mauritius,step4,step4
+MYS,Malaysia,step4,step3
+NAM,Namibia,step4,step4
+NER,Niger,step1,step1
+NGA,Nigeria,step1,step1
+NIC,Nicaragua,step1,step2
+NLD,Netherlands,step4,step4
+NOR,Norway,step4,step4
+NPL,Nepal,step1,step1
+OMN,Oman,step3,step3
+OSS,Other small states,step4,step4
+PAK,Pakistan,step1,step1
+PAN,Panama,step4,step4
+PER,Peru,step4,step4
+PHL,Philippines,step4,step4
+PLW,Palau,step4,step4
+POL,Poland,step4,step4
+PRE,Pre-demographic dividend,step1,step1
+PRI,Puerto Rico,step3,step3
+PRT,Portugal,step4,step4
+PRY,Paraguay,step2,step2
+QAT,Qatar,step3,step3
+ROU,Romania,step4,step4
+RUS,Russian Federation,step4,step4
+RWA,Rwanda,step1,step1
+SAS,South Asia,step1,step1
+SAU,Saudi Arabia,step4,step3
+SEN,Senegal,step1,step2
+SGP,Singapore,step4,step4
+SLE,Sierra Leone,step1,step1
+SLV,El Salvador,step4,step4
+SRB,Serbia,step4,step4
+SSA,Sub-Saharan Africa (excluding high income),step1,step1
+SSF,Sub-Saharan Africa,step1,step1
+SST,Small states,step4,step4
+STP,Sao Tome and Principe,step4,step4
+SUR,Suriname,step3,step3
+SVK,Slovak Republic,step4,step4
+SVN,Slovenia,step4,step4
+SWE,Sweden,step4,step4
+SWZ,Eswatini,step4,step3
+SYC,Seychelles,step4,step4
+TCA,Turks and Caicos Islands,step4,step4
+TCD,Chad,step1,step1
+TEA,East Asia & Pacific (IDA & IBRD countries),step3,step3
+TEC,Europe & Central Asia (IDA & IBRD countries),step4,step4
+TGO,Togo,step1,step1
+THA,Thailand,step4,step4
+TLA,Latin America & the Caribbean (IDA & IBRD countries),step4,step4
+TLS,Timor-Leste,step1,step1
+TMN,Middle East & North Africa (IDA & IBRD countries),step2,step2
+TON,Tonga,step1,step1
+TSA,South Asia (IDA & IBRD),step1,step1
+TSS,Sub-Saharan Africa (IDA & IBRD countries),step1,step1
+TUN,Tunisia,step4,step4
+TUR,Turkey,step4,step4
+TZA,Tanzania,step1,step1
+UGA,Uganda,step1,step1
+UKR,Ukraine,step4,step2
+UMC,Upper middle income,step4,step4
+URY,Uruguay,step4,step4
+UZB,Uzbekistan,step1,step1
+VCT,St. Vincent and the Grenadines,step4,step4
+VNM,Vietnam,step2,step2
+WSM,Samoa,step4,step4
+XKX,Kosovo,step2,step2
+ZAF,South Africa,step4,step4
+ZMB,Zambia,step4,step4
+ZWE,Zimbabwe,step3,step4

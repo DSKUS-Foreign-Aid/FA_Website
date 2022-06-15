@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <title>DSKUS Foreign Aid</title>
+</head>
+<body>
+
+<div class="container text-center">
+<h1> Welcome to the Classification Project </h1>
+</div>
+
+<!-- This div will be how people interact with our website -->
+<div class="container">
+<h2>{{ Korea }}</h2>
+
+<p>{{ Country }}</p>
+
+<!-- you place the page you want to move to after completing the form -->
+<!-- url '<something>' refers back to the name argument in the urls file
+    path(name='<something>') -->
+Please select the country you would like to classify:
+<form action="{% url 'selected_country' %}">
+    <select name="Country">
+        {% for country in Countries %}
+            <option value='{{country}}'>{{country}}</option>
+        {% endfor %}
+        <!-- value="<something>" is the value given to the variable -->
+    </select>
+    <!-- This is to create a button, the type makes is a submit one -->
+    <br>
+    <br>
+    <input type="submit" value="Classify" class="btn btn-primary">
+</form>
+    <br>
+
+<div class="card mb-3" style="max-width: 540px;">
+  <div class="row g-0">
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">Korea Classification</h5>
+          <p class="card-text">Please select the country you wish to classify </p>
+        <p class="card-text"><small class="text-muted">Select Country</small></p>
+    <input class="form-control" list="datalistOptions" id="exampleDataList" placeholder="Type to search...">
+    <datalist id="datalistOptions">
+        {% for country in Countries %}
+            <option value="{{country}}">
+        {% endfor %}
+    </datalist>
+</div>
+    </div>
+  </div>
+</div>
+</div>
+
+</body>
+</html>
